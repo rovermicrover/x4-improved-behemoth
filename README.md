@@ -12,7 +12,7 @@ This mod seeks to make the Behemoth better in sector by adding two missing turre
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419907&p=4896192)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1911929614)
 
