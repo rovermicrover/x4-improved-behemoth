@@ -1,3 +1,7 @@
+# Note
+
+In order to not conflict with the 3.0 Beta had to change some connection names. This means existing ships will need to be refitted to regain the new turret groups added by this mod.
+
 # About
 
 The Behemoth has less shields and turrets than the Phoenix, and is slower. It is far better than the Phoenix in sector because of poor turret placement but out of sector is purely worse.
